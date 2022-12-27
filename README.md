@@ -5,6 +5,7 @@ We followed an iterative process from the initial idea, to research, to the low-
 
 ## Review Page:
 I designed this page from the high-fi prototype.
+
 ![image](https://user-images.githubusercontent.com/60584205/209589801-e30a7fb1-fd9a-422b-8f88-680a6ad46d1c.png)
 
 ## Link to High-Fidelity Prototype:
